@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TraficKeeper/app/src/main/res/drawable/accept.xml" value="0.1195" />
+        <entry key="..\:/TraficKeeper/app/src/main/res/drawable/btn_back_settings.xml" value="0.1195" />
+        <entry key="..\:/TraficKeeper/app/src/main/res/drawable/btn_settings.xml" value="0.1195" />
+        <entry key="..\:/TraficKeeper/app/src/main/res/drawable/denay.xml" value="0.1195" />
+        <entry key="..\:/TraficKeeper/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.1195" />
+        <entry key="..\:/TraficKeeper/app/src/main/res/drawable/list_back.xml" value="0.1195" />
+        <entry key="..\:/TraficKeeper/app/src/main/res/drawable/list_back_d.xml" value="0.1195" />
+        <entry key="..\:/TraficKeeper/app/src/main/res/drawable/list_back_w.xml" value="0.1195" />
+        <entry key="..\:/TraficKeeper/app/src/main/res/drawable/title_bar.xml" value="0.1195" />
+        <entry key="..\:/TraficKeeper/app/src/main/res/drawable/warning.xml" value="0.1195" />
+        <entry key="..\:/TraficKeeper/app/src/main/res/layout/accept_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/TraficKeeper/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/TraficKeeper/app/src/main/res/layout/denay_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/TraficKeeper/app/src/main/res/layout/warning_fragment.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
